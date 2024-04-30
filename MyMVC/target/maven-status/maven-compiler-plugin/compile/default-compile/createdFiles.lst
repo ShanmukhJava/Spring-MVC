@@ -1,0 +1,7 @@
+com\mvc\service\UserServiceImpl.class
+com\mvc\repository\UserRepository.class
+com\mvc\config\HibernateConfig.class
+com\mvc\model\User.class
+com\mvc\service\UserService.class
+com\mvc\config\WebConfig.class
+com\mvc\controller\UserController.class
